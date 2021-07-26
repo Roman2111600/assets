@@ -1,0 +1,11 @@
+
+"name": "BNB GOLD",
+    "website": "http://bnbgold.wordpress.com/",
+    "description": "We launched BSC-based BGD token to promote BNB and BSC blockchain in the cryptocurrency world. We ourselves and our community will move to a more advanced BSC and BNB platform.",
+    "explorer": "https://bscscan.com/token/0xfe5439657ed2d2f9878c73487ef9f360631cb595",
+    "type": "BEP20",
+    "symbol": "BGD",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xfe5439657ed2d2f9878c73487ef9f360631cb595"
+}
